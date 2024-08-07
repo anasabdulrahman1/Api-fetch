@@ -1,0 +1,44 @@
+
+
+.card-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 1rem;
+    margin-bottom: 100px;
+}
+.card {
+    background-color: #ffffff;
+    border: none;
+    transition: transform 0.2s, box-shadow 0.2s;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.card:hover {
+    transform: scale(1.05);
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+}
+
+.card-title {
+    color: #333;
+}
+
+.card-text {
+    color: #666;
+}
+
+.buy-button {
+    background-color: #000000;
+    border: none;
+}
+
+.buy-button:hover {
+    background-color: #38b81e;
+    color: #ffffff;
+}
+
+
+
+
+
+

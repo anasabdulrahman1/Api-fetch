@@ -13,25 +13,25 @@ function Footer() {
           <span>Get connected with us on social networks:</span>
         </div>
 
-        <div>
-          <a href='' className='me-4 text-reset'>
+        <div className='d-flex'>
+          <p href='' className='me-4 text-reset'>
             <MDBIcon fab icon="facebook-f" />
-          </a>
-          <a href='' className='me-4 text-reset'>
+          </p>
+          <p href='' className='me-4 text-reset'>
             <MDBIcon fab icon="twitter" />
-          </a>
-          <a href='' className='me-4 text-reset'>
+          </p>
+          <p href='' className='me-4 text-reset'>
             <MDBIcon fab icon="google" />
-          </a>
-          <a href='' className='me-4 text-reset'>
+          </p>
+          <p href='' className='me-4 text-reset'>
             <MDBIcon fab icon="instagram" />
-          </a>
-          <a href='' className='me-4 text-reset'>
+          </p>
+          <p href='' className='me-4 text-reset'>
             <MDBIcon fab icon="linkedin" />
-          </a>
-          <a href='' className='me-4 text-reset'>
+          </p>
+          <p href='' className='me-4 text-reset'>
             <MDBIcon fab icon="github" />
-          </a>
+          </p>
         </div>
       </section>
 
@@ -52,48 +52,48 @@ function Footer() {
             <MDBCol md="2" lg="2" xl="2" className='mx-auto mb-4'>
               <h6 className='text-uppercase fw-bold mb-4'>Products</h6>
               <p>
-                <a href='' className='text-reset'>
+                <p href='' className='text-reset'>
                   Makeup
-                </a>
+                </p>
               </p>
               <p>
-                <a href='' className='text-reset'>
+                <p href='' className='text-reset'>
                   Furniture
-                </a>
+                </p>
               </p>
               <p>
-                <a href='' className='text-reset'>
+                <p href='' className='text-reset'>
                   Vegitables
-                </a>
+                </p>
               </p>
               <p>
-                <a href='' className='text-reset'>
+                <p href='' className='text-reset'>
                   Meat
-                </a>
+                </p>
               </p>
             </MDBCol>
 
             <MDBCol md="3" lg="2" xl="2" className='mx-auto mb-4'>
               <h6 className='text-uppercase fw-bold mb-4'>Useful links</h6>
               <p>
-                <a href='' className='text-reset'>
+                <p href='' className='text-reset'>
                   Pricing
-                </a>
+                </p>
               </p>
               <p>
-                <a href='' className='text-reset'>
+                <p href='' className='text-reset'>
                   Settings
-                </a>
+                </p>
               </p>
               <p>
-                <a href='' className='text-reset'>
+                <p href='' className='text-reset'>
                   Orders
-                </a>
+                </p>
               </p>
               <p>
-                <a href='' className='text-reset'>
+                <p href='' className='text-reset'>
                   Help
-                </a>
+                </p>
               </p>
             </MDBCol>
 
